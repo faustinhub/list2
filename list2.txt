@@ -1,0 +1,5 @@
+list1=["apple","banana","cherry"],[1,5,7,9,3],[True,False,False],["apple",35,True,"john"]
+print(list1)
+print(list1[0])
+print(list1[2:5])
+print(list1[1:-1])
